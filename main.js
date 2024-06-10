@@ -36,9 +36,17 @@ let gb = 15;
 bt = 1e9;
 let hariu = 15 * 1e9;
 console.log("bt", hariu);
+// bodlogo10
 let celsius = 25;
 let faranheit = (celsius * 9) / 5 + 32;
 console.log("huvirsan", faranheit);
 
 let faranheit1 = 77;
-let celsius1;
+let celsius1 = (faranheit1 * 5) / 9;
+console.log("f-huvirsan-c", celsius1);
+// bodlogo 11
+let k = 5,
+  h = 10,
+  z = 0;
+let = k + h;
+console.log("k+h-hariu", z);
